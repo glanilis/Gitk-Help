@@ -5,7 +5,4 @@ A tutorial to use Gitk
 `test`
 
 
-![ScreenTest1](https://github.com/glanilis/Gitk-Help/blob/master/ScreenTest1.png)
-
-![trrttr](https://github.com/glanilis/Gitk-Help/blob/master/ScreenTest1.jpg)
-=======
+![ScreenTest1](https://github.com/glanilis/Gitk-Help/raw/master/ScreenTest1.png)
