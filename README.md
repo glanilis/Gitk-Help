@@ -7,4 +7,5 @@ A tutorial to use Gitk
 
 ![ScreenTest1](https://github.com/glanilis/Gitk-Help/blob/master/ScreenTest1.png)
 
+![trrttr](https://github.com/glanilis/Gitk-Help/blob/master/ScreenTest1.jpg)
 =======
